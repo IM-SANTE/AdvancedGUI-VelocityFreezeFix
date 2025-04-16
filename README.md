@@ -1,2 +1,3 @@
-This is a fork of the existing freeze fix for the plugin AdvancedGui for bungeecord when switching server, this fork works only in velocity.
-you can find the bungeecord version at the link: https://github.com/DevLeoko/AdvancedGUI-BungeeFreezeFix
+This is a velocity implementation from the AdvancedGUI-Freezefix and does not include a Bungeecord fix. 
+The original version can be found on the Spigot page of advancedgui https://www.spigotmc.org/resources/itemframe-touchscreens-advancedgui.83636/.
+This is not officially maintained and Leoko is not liable for issues this may cause
