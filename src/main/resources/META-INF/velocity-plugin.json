@@ -1,0 +1,8 @@
+{
+  "id": "agfreezefixvelocity",
+  "name": "AG-FreezeFixVelocity",
+  "version": "1.0",
+  "main": "dev.im_sante.fixAdvancedGuiVelocity.FreezeFix",
+  "description": "AdvancedGui Fix Freeze Velocity on server switch",
+  "authors": ["IM_SANTE"]
+}
